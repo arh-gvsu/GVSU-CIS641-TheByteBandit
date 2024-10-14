@@ -14,6 +14,10 @@ Must have access to a Microsoft Power Apps developer license
 
 Check out my project documents [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/docs/proposal-template.md)
 
+## Project Artifacts
+
+Review project artifacts [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/tree/main/artifacts)
+
 ## Run Instructions
 
 TBD
