@@ -4,7 +4,7 @@ This is a project time-tracking application intended to aid in recording time wo
 
 ## Team Members and Roles
 
-* [Amber Hoagland](https://github.com/arh-gvsu/CIS641-HW2-Hoagland) (Project Manager, doer of all things project-related)
+* [Amber Hoagland](https://arh-gvsu.github.io/CIS641-HW2-Hoagland/) (Project Manager, doer of all things project-related)
 
 ## Prerequisites
 
