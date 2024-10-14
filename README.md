@@ -10,6 +10,10 @@ This is a project time-tracking application intended to aid in recording time wo
 
 Must have access to a Microsoft Power Apps developer license
 
+## Project Documents
+
+Check out my project documents [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/docs/proposal-template.md)
+
 ## Run Instructions
 
 TBD
