@@ -1,6 +1,6 @@
 # The Byte Bandit
 
-This is a project time-tracking application intended to aid in recording time worked against elements of a project's WBS (work breakdown structure). The application is intended for use by both Project Managers and project resources. 
+This is a project time-tracking application intended to aid in recording time worked against specific tasks in a project's WBS (work breakdown structure). The application is intended for use by both Project Managers and project resources. 
 
 ## Team Members and Roles
 
