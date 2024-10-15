@@ -20,7 +20,7 @@ Individual links:
 
 ## Project Artifacts
 
-Review project all artifacts [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/tree/main/artifacts)
+Review all project artifacts [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/tree/main/artifacts)
 
 Individual links:
 * [Activity Diagram for Adding Tasks](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/artifacts/AHoagland_AddProjectTask_ActivityDiagram.pdf)
