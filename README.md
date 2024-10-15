@@ -12,7 +12,10 @@ Must have access to a Microsoft Power Apps developer license
 
 ## Project Documents
 
-Check out my project documents [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/docs/proposal-template.md)
+Check out all project documents [here](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/tree/main/docs)
+
+* [System Proposal](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/docs/proposal-template.md)
+* [System Requirement Specification](https://github.com/arh-gvsu/GVSU-CIS641-TheByteBandit/blob/main/docs/software_requirements_specification.md)
 
 ## Project Artifacts
 
