@@ -5,12 +5,15 @@ The purpose of this Software Requirements Specification (SRS) document is to pro
 # Functional Requirements
 
 1. Creating Time Entries
-   1. FR1: The system shall allow users to create one time entry per task
-   2. FR2: The system shall provide the option for a user to manually enter a start time and an end time for each task in UTC
+   1. The system shall allow users to create one time entry per task
+   2. The system shall provide the option for a user to manually enter a start time and an end time for each task in UTC
    3. The system shall provide an option to automatically record a time entry when a user selects a start recording option followed by a stop recording option
 
-2. Managing Project Tasks
-   1. The system shall allow a Project Manager user to create a new project record and associate tasks to that project record
+2. Creating and Managing Projects
+   1. The system shall allow any user with a Project Manager designation to create a new project
+   2. The system shall allow the designated Project Manager of a Project to add other users as Project Resources
+   3. The system shall allow the designated Project Manager of a Project to add tasks to a project
+   4. The system shall allow the designated Project Manager of a Project to assign tasks to users allocated to the Project as Resources
 
 # Non-Functional Requirements
 
