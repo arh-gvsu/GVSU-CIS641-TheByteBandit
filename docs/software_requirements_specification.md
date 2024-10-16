@@ -14,6 +14,9 @@ The purpose of this Software Requirements Specification (SRS) document is to pro
    2. The system shall allow the designated Project Manager of a Project to add other users as Project Resources
    3. The system shall allow the designated Project Manager of a Project to add tasks to a project
    4. The system shall allow the designated Project Manager of a Project to assign tasks to users allocated to the Project as Resources
+  
+3. Managing Tasks
+   1. The system shall allow a task's status to be updated by either the user assigned to the task or the Project Manager of the associated Project
 
 # Non-Functional Requirements
 
