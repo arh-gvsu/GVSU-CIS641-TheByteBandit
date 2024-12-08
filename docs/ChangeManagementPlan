@@ -1,0 +1,23 @@
+# Project Time Pro - Change Management Plan
+
+The Project Time Pro application is a core element of our Microsoft ERP and Project Management application landscape. To ensure continued success and business delivery, the application shall be maintained in perpetuity under the governance listed below. 
+
+# Change Requests
+
+Requests for changes - whether modifying features or adding enhancements - will be evaluated for business and technology approval, priority, timeline, testing and disaster recovery, as well as a communication plan. All changes must be submitted with these elements and will receive final sign-off by the Change Approval Board before any work is to begin. 
+  
+# Training
+
+All changes and enhancements require training for both developers and users. Training will consist of a required in-session demonstration for the intended audience as well as video and documented Standard Operating Procedures. Video and SOP content can be found on the company Sharepoint in the IT Directory. 
+
+After the initial training has been completed, all users are expected to make a best-effort attempt to practice in the test environment before leveraging new features in production. A period of hypercare will be available for two weeks after a release, where support will be provided through a dedicated teams channel with chat attendants available during the hours of 8 am to 5 pm. Additional one-on-one support and training can be requested through our ticketing system by logging a ticket. 
+
+# Enhancement Cadence
+
+New features shall be released on a monthly schedule. Enhancements will happen during non-business hours, and the system will be available the following morning. An enhancement schedule with specific release dates and versions will be sent out at the beginning of each fiscal quarter. With each new release, documentation of features will be provided along with the training guides in the company's IT Sharepoint page. 
+
+# Bug Fix and Break Fix
+
+We request that all bugs be reported by submitting an IT Helpdesk ticket through the ticketing portal. For urgent requests, please set the ticket's priority to level 1, and the ticket will be expedited. The ticket queue is monitored daily, and bug fix and break fix issues are considered top priority over other requests. If a bug is found to be system-wide or is impacting a large number of users, a company-wide email will be sent out with status updates to follow. Once a bug is resolved, the user will be notified in the ticket, or in the case of a global outage, an email will be sent to all users advising that it is safe to use the system again. 
+
+Developer time will be allocated based on urgency and business impact. All changes will be version-controlled and logged in Azure DevOps as Emergency Change Requests. All changes must have a testing and rollback plan, even for urgent bug fix or break fix events. 
