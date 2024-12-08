@@ -30,4 +30,9 @@ Individual links:
 
 ## Run Instructions
 
-TBD
+1. First, submit a request to be added to the environment as an external user. Requests can be sent to hoaglana@gmail.gvsu.edu. 
+2. Next, download the .msapp file available in the artifacts folder.
+3. Log into Power Apps with your Microsoft account (GVSU students all have a Microsoft Account in the GVSU org)
+4. Navigate to the "Apps" section
+5. Select "Import App" and choose the option: "From file (.msapp)"
+6. Select the file from your computer to launch the app in Power Apps
